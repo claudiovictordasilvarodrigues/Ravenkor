@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+/*estilo global do layout*/
+:root{
+    --bg: #071029;        /* azul escuro */
+    --surface: #0b2540;   /* superfície ligeiramente mais clara */
+    --primary: #14b8a6;   /* teal / cyan - tecnologia */
+    --secure: #7ee787;    /* verde claro - segurança */
+    --muted: #9fb6c9;     /* texto secundário */
+    --text: #e6f0f6;      /* texto principal claro */
+    --glass: rgba(255,255,255,0.02);
+}
