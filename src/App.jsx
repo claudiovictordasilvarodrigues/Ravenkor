@@ -1,10 +1,11 @@
 import React from "react";
 import Header from "./components/Header";
-import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import Habilidades from "./components/Habilidades";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+
     </>
   );
 }
